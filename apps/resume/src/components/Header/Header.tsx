@@ -19,7 +19,6 @@ function Header({ heading, description }: IHeader) {
         >
           {heading}
         </H1>
-
       </HeadingWrapper>
 
       <DescriptionWrapper>
