@@ -5,9 +5,6 @@
   </url>
 
   <url>
-    <loc>https://noctis-tech-blog.vercel.app/bar</loc>
-  </url>
-  <url>
     <loc>https://noctis-tech-blog.vercel.app/foo</loc>
   </url>
   <url>
@@ -16,14 +13,19 @@
   <url>
     <loc>https://noctis-tech-blog.vercel.app/markdown</loc>
   </url>
-
   <url>
-    <loc>https://noctis-tech-blog.vercel.app/Bar</loc>
+    <loc
+      >https://noctis-tech-blog.vercel.app/how_to_avoid_memory_leak_with_set_state_on_an_unmounted_component</loc
+    >
   </url>
+
   <url>
     <loc>https://noctis-tech-blog.vercel.app/Foo</loc>
   </url>
   <url>
     <loc>https://noctis-tech-blog.vercel.app/Guide</loc>
+  </url>
+  <url>
+    <loc>https://noctis-tech-blog.vercel.app/ReactJS</loc>
   </url>
 </urlset>
