@@ -36,3 +36,4 @@ apps/resume/.turbo
 apps/blog/.next
 apps/blog/.turbo
 .turbo
+coverage/
