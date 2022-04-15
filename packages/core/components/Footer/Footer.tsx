@@ -16,12 +16,6 @@ export function Footer() {
         </Link>{" "}
         All rights reserved.
       </span>
-      <span>
-        Powered By{" "}
-        <Link href="https://github.com/hyesungoh/comet-land" target="_blank">
-          @Comet-land
-        </Link>
-      </span>
     </StyledFooter>
   );
 }

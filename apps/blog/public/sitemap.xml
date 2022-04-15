@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://noctis-tech-blog.vercel.app</loc>
+  </url>
+
+  <url>
+    <loc>https://noctis-tech-blog.vercel.app/bar</loc>
+  </url>
+  <url>
+    <loc>https://noctis-tech-blog.vercel.app/foo</loc>
+  </url>
+  <url>
+    <loc>https://noctis-tech-blog.vercel.app/kbar-support</loc>
+  </url>
+  <url>
+    <loc>https://noctis-tech-blog.vercel.app/markdown</loc>
+  </url>
+
+  <url>
+    <loc>https://noctis-tech-blog.vercel.app/Bar</loc>
+  </url>
+  <url>
+    <loc>https://noctis-tech-blog.vercel.app/Foo</loc>
+  </url>
+  <url>
+    <loc>https://noctis-tech-blog.vercel.app/Guide</loc>
+  </url>
+</urlset>

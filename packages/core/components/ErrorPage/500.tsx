@@ -4,7 +4,7 @@ export function ServerError() {
   return (
     <ErrorTemplate
       errorTitle="500"
-      paragraph="Somethin' was wrong."
+      paragraph="Something wrong."
       anchorMessage="Go to main"
     />
   );

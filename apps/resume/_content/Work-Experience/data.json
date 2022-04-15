@@ -1,0 +1,82 @@
+{
+  "title": "Work Experience",
+  "list": [
+    {
+      "name": "Foo company",
+      "position": "Web Developer",
+      "startDate": "2021.03",
+      "endDate": "",
+      "description": "Foo company is social media company for every world",
+      "projects": [
+        {
+          "title": {
+            "text": "Foo Pay",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Leading FE developers",
+          "startDate": "2022.01",
+          "endDate": "",
+          "which": ["leading fe developers", "foster SEO"],
+          "techStack": ["TypeScript", "React", "Recoil"]
+        },
+        {
+          "title": {
+            "text": "Foo Eat",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Leading FE developers",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "lorem lorem",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+          ],
+          "techStack": null
+        }
+      ]
+    },
+    {
+      "name": "Bar company",
+      "position": "Web Developer",
+      "startDate": "2020.03",
+      "endDate": "2021.03",
+      "description": "Bar company is very awesome",
+      "projects": [
+        {
+          "title": {
+            "text": "Bar Pay",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "role": "FE Dev Leader",
+          "description": "Leading FE developers",
+          "startDate": "2020.08",
+          "endDate": "2021.03",
+          "which": [
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+            "Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+          ],
+          "techStack": ["TypeScript", "React", "Recoil"]
+        },
+        {
+          "title": {
+            "text": "Bar Play",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "role": "FE Dev Leader",
+          "description": "Leading FE developers",
+          "startDate": "2020.03",
+          "endDate": "2020.08",
+          "which": [
+            "perspiciatis modi dolores libero tenetur nam.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing."
+          ],
+          "techStack": ["TypeScript", "React", "Recoil"]
+        }
+      ]
+    }
+  ]
+}

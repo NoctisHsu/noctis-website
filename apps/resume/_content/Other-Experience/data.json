@@ -1,0 +1,53 @@
+{
+  "title": "Other Experience",
+  "list": [
+    {
+      "title": {
+        "text": "Foo University",
+        "githubLink": null,
+        "otherLink": null
+      },
+      "position": "Student",
+      "startDate": "2018.03",
+      "endDate": "2021.03",
+      "description": "Graduated software develop major",
+      "which": []
+    },
+    {
+      "title": {
+        "text": "Bar Club",
+        "githubLink": null,
+        "otherLink": null
+      },
+      "position": "FE developer course",
+      "startDate": "2018.03",
+      "endDate": "2018.12",
+      "description": "Learning FE development",
+      "which": ["learning HTML/CSS", "learning SPA Framework"]
+    },
+    {
+      "title": {
+        "text": "Lovein Next.js Club",
+        "githubLink": null,
+        "otherLink": "https://nextjs.org/"
+      },
+      "position": "Web Developer",
+      "startDate": "2020.03",
+      "endDate": "2021.03",
+      "description": "Love Next.js and NextUI",
+      "which": ["Comet-land build with Next.js and NextUI"]
+    },
+    {
+      "title": {
+        "text": "Turbo Developers",
+        "githubLink": null,
+        "otherLink": "https://turborepo.org/"
+      },
+      "position": "Web Developer",
+      "startDate": "2020.03",
+      "endDate": "2021.03",
+      "description": "",
+      "which": ["Turborepo is awesome", "It's super fast"]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://noctis-resume.vercel.app/sitemap.xml
